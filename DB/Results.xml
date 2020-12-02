@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfResults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Results>
+		<PlayerName>Test</PlayerName>
+		<FinalPrize>$ 0</FinalPrize>
+		<CorrectAnswers>0</CorrectAnswers>
+		<ElapsedTime>PT0.5820833S</ElapsedTime>
+		<MediumTimeSpanPerQuestion>PT0S</MediumTimeSpanPerQuestion>
+	</Results>
+</ArrayOfResults>
